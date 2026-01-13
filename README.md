@@ -1,0 +1,1 @@
+# Metodo-Simetrico-Variacional-y-Elemento-FInito
